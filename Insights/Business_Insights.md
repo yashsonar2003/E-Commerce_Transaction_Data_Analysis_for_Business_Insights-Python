@@ -57,7 +57,8 @@ The analysis provides a comprehensive view of:
 - sales performance.
 - operational efficiency.
 
-By acting on these insights, businesses can enhance **revenue growth, reduce transaction losses, and deliver a better overall customer experience**.
+By acting on these insights, businesses can enhance **revenue growth, reduce transaction losses, and deliver a better overall customer experience.**
+
 This project demonstrates how data-driven analysis can support strategic business decisions in the e-commerce domain.
 
 -----
