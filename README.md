@@ -34,6 +34,15 @@ File: "Transaction_Raw_Data.csv"
 
 -----
 
+# Business Objectives:-
+- Identify high-performing cities and revenue drivers.
+- Understand customer payment preferences.
+- Measure transaction success and failure rates.
+- Detect high-value transactions contributing maximum revenue.
+- Support business decision-making using data insights.
+
+-----
+
 # KPIs Calculated:-
 - Total Revenue.
 - City-wise Revenue.
@@ -42,15 +51,6 @@ File: "Transaction_Raw_Data.csv"
 - Transaction Status Distribution.
 - High-Value vs Low-Value Transactions (%).
 - Data Quality Check. (Null Values)
-
------
-
-# Business Objectives:-
-- Identify high-performing cities and revenue drivers.
-- Understand customer payment preferences.
-- Measure transaction success and failure rates.
-- Detect high-value transactions contributing maximum revenue.
-- Support business decision-making using data insights.
 
 -----
 
@@ -84,5 +84,11 @@ Successfully delivered an End-to-End Data Analysis Project that demonstrates:
 - Analytical Thinking.
 - Business Problem-Solving.
 - Python-Based Data Analysis Skills.
+
+-----
+
+# Author:-
+**Yash Sonar**  
+BBA Student | Aspiring Data Analyst
 
 -----
